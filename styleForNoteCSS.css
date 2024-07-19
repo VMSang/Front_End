@@ -58,4 +58,10 @@ Phông chữ Fantasy (tưởng tượng) là phông chữ trang trí/vui tươi.
 lên google font để chọn font
 nhớ thêm vào thẻ head và gắn font-family
 font-family: "Times New Roman", Times, serif;
+font-style: normal, italic, oblique
+font-weight: normal, bold, bolder, lighter, 100, 200, 300, 400, 500, 600, 700, 800, 900
+font-size: 16px, 1em, 100%, 1.5em
+
+icon: https://fontawesome.com/search?o=r&m=free
+dán link này vào head để sử dụng icon: https://cdnjs.com/libraries/font-awesome
 */
